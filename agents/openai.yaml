@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shiplog Codex"
+  short_description: "Issue-driven Git/GitHub traceability workflow"
+  default_prompt: "Use $shiplog-codex to brainstorm, resume an issue, track discovery, prepare a PR timeline, or recover prior shiplog context."
